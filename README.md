@@ -65,6 +65,6 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 This project is licensed under the MIT License.
 
 **Contact**
-For any inquiries or feedback, please contact us at [your-email@example.com].
+For any inquiries or feedback, please contact us at [akshitasaxena38@gmail.com].
 
 Thank you for using the Movies Website Project! We hope you enjoy managing your movie collection.
