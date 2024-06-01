@@ -30,7 +30,7 @@ Welcome to the Movies Website Project! This application allows users to browse, 
    
 **Steps**
 1. Clone the Repository:
-   git clone https://github.com/yourusername/movies-website.git
+   git clone https://github.com/akshitasaxena1309/Movie-website.git
    cd movies-website
    
 2. Install Dependencies:
