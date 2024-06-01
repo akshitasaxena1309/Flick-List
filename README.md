@@ -2,8 +2,8 @@
 **Introduction**
 Welcome to the Movies Website Project! This application allows users to browse, manage, and organize their favorite movies. Users can create accounts, log in, add movies to their personal cart, and perform CRUD (Create, Read, Update, Delete) operations on their movie list. The project leverages modern web development technologies including HTML, CSS, JavaScript, and Bootstrap for the frontend, and Express, MongoDB, and REST APIs for the backend. Additionally, JWT (JSON Web Tokens) are used for secure user authentication.
 
-**Click Here :- https://movie-website-hjei6anu3-akshita-saxenas-projects.vercel.app/loginPage
-**
+**Click Here :-** https://movie-website-hjei6anu3-akshita-saxenas-projects.vercel.app/loginPage
+
 **Features**
 1. User Authentication: Secure user registration and login using JWT.
 2. CRUD Operations: Full CRUD functionality for managing movies in the user’s cart.
