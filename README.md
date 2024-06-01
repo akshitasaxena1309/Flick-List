@@ -1,9 +1,9 @@
-## Movies Website Project
-# Introduction
+# Movies Website Project
+## Introduction
 Welcome to the Movies Website Project! This application allows users to browse, manage, and organize their favorite movies. Users can create accounts, log in, add movies to their personal cart, and perform CRUD (Create, Read, Update, Delete) operations on their movie list. The project leverages modern web development technologies including HTML, CSS, JavaScript, and Bootstrap for the frontend, and Express, MongoDB, and REST APIs for the backend. Additionally, JWT (JSON Web Tokens) are used for secure user authentication.
 
-Features
-User Authentication: Secure user registration and login using JWT.
+##Features
+ *User Authentication: Secure user registration and login using JWT.
 CRUD Operations: Full CRUD functionality for managing movies in the user’s cart.
 Responsive Design: Clean and responsive UI using Bootstrap.
 RESTful API: Backend API built with Express and MongoDB.
