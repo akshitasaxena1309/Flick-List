@@ -2,7 +2,7 @@
 # Introduction
 Welcome to the Movies Website Project! This application allows users to browse, manage, and organize their favorite movies. Users can create accounts, log in, add movies to their personal cart, and perform CRUD (Create, Read, Update, Delete) operations on their movie list. The project leverages modern web development technologies including HTML, CSS, JavaScript, and Bootstrap for the front end, and Express, MongoDB, and REST APIs for the back end. Additionally, JWT (JSON Web Tokens) are used for secure user authentication.
 
-**Click Here :-** movie-website-bice.vercel.app
+**Click Here :-** https://movie-website-bice.vercel.app/
 
 # Features
 1. User Authentication: Secure user registration and login using JWT.
